@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85a51b4b.chunk.css",
+    "main.js": "/static/js/main.02c34ef7.chunk.js",
+    "main.js.map": "/static/js/main.02c34ef7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.79d8abac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.79d8abac.js.map",
+    "static/js/2.bdaba24e.chunk.js": "/static/js/2.bdaba24e.chunk.js",
+    "static/js/2.bdaba24e.chunk.js.map": "/static/js/2.bdaba24e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.720c3322e540eaa65e40970cbb0495c9.js": "/precache-manifest.720c3322e540eaa65e40970cbb0495c9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.85a51b4b.chunk.css.map": "/static/css/main.85a51b4b.chunk.css.map",
+    "static/js/2.bdaba24e.chunk.js.LICENSE.txt": "/static/js/2.bdaba24e.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/GrandSlangRoman.ba99bb6f.otf",
+    "static/media/aketch.webp": "/static/media/aketch.5433e572.webp",
+    "static/media/compressed-image.jpg": "/static/media/compressed-image.cba5aeb4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79d8abac.js",
+    "static/js/2.bdaba24e.chunk.js",
+    "static/css/main.85a51b4b.chunk.css",
+    "static/js/main.02c34ef7.chunk.js"
+  ]
+}
